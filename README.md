@@ -1,1 +1,1 @@
-# HONSSeniorProject
+# Honors Senior Project
